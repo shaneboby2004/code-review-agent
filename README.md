@@ -1,3 +1,4 @@
+![CI Pipeline](https://github.com/shaneboby2004/code-review-agent/actions/workflows/ci.yml/badge.svg)
 # AI Code Review Agent
 
 An autonomous AI agent that clones any GitHub repository, analyzes every code file for quality and security issues, and produces a structured report — all in one click.
